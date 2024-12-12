@@ -1,0 +1,13 @@
+debug/arduino.o
+debug/chambre.o
+debug/client.o
+debug/connection.o
+debug/employe.o
+debug/facture.o
+debug/main.o
+debug/mainwindow.o
+debug/metier.o
+debug/reservation.o
+debug/utilitee.o
+debug/moc_arduino.o
+debug/moc_mainwindow.o

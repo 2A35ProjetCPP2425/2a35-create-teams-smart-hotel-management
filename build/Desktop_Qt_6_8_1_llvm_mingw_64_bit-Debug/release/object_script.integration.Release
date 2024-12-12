@@ -1,0 +1,13 @@
+release/arduino.o
+release/chambre.o
+release/client.o
+release/connection.o
+release/employe.o
+release/facture.o
+release/main.o
+release/mainwindow.o
+release/metier.o
+release/reservation.o
+release/utilitee.o
+release/moc_arduino.o
+release/moc_mainwindow.o

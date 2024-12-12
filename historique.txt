@@ -1,0 +1,8 @@
+Message,ID Produit,Prix Produit,Quantité,Type,Date Heure Enregistrement
+on a ajouter: ,5,44456,5445,papier,2024-11-28 15:37:50
+on a ajouter: ,1234,4000,7452,papier,2024-11-28 15:49:08
+on a modifié : ,1234,4000,7452,papier,2024-11-28 15:49:24
+on a ajouter: ,23,23,23,papier,2024-12-10 21:31:59
+on a supprimer:  ,23,0,0,,2024-12-10 21:32:04
+on a ajouter: ,23,23,23,papier,2024-12-10 21:32:07
+on a modifié : ,23,23,24,papier,2024-12-10 21:32:10
